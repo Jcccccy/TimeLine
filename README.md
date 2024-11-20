@@ -15,7 +15,7 @@
 - SCSS
 
 ### How to Run
-1. Clone the repository: `git clone https://github.com/username/timeline-project.git`
+1. Clone the repository: `git clone https://github.com/Jcccccy/TimeLine.git`
 2. Install dependencies: `npm install`
 3. Start the project: `npm run serve`
 
