@@ -1,24 +1,7 @@
-# timeline
+<h1 align="center">
+  TimeLine v0
+</h1>
 
-## Project setup
-```
-npm install
-```
+<h3>If you are a beginner in D3.js, if you want to learn how to draw axes, understand how to implement dragging with D3.js, or have a project requirement to create a timeline, you can learn from and refer to this project. I believe you will find it helpful.</h3>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](docs/timeline-example)
